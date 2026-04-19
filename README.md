@@ -29,4 +29,4 @@ I own the data architecture running on AWS.
 - Sports lover  
 - Traveler ✈️  
 - Enjoy cooking 🍳  
-- Won a dancing contest in Vancouver (on my birthday 🎉)
+- Won a dancing contest in Vancouver, CA (on my birthday 🎉)
