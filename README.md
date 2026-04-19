@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**JuanMontreuil08/JuanMontreuil08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan, a data engineer with a founder mindset.
 
-Here are some ideas to get you started:
+I'm currently part of the core AI team behind Mibanco × WhatsApp, the first agentic conversational banking platform for financial services in Peru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I own the data architecture running on AWS.
+
+---
+
+### 🚀 Built
+
+- [Stock Guru](https://github.com/JuanMontreuil08/stock-guru-api), multimodal agent that analyzes opportunities in S&P 500 companies.
+
+- [Yei Clothing](https://github.com/JuanMontreuil08/stylist-bot), WhatsApp-based stylist agent that searches across merchant catalogs and the web, with virtual try-on.
+
+---
+
+### 🏆 Achievements
+
+- Official delegate at [Stanford ASES Summit '26](https://ases.stanford.edu/summit/) — immersive program in Silicon Valley  
+- Admitted to Master in Computing @ National University of Singapore (Top 10 globally)  
+- Lead Builder at [AI Playgrounds](https://www.linkedin.com/company/ai-playgrounds-tech/about/) — community democratizing AI education
+
+---
+
+### 🌍 Fun facts
+
+- Sports lover  
+- Traveler ✈️  
+- Enjoy cooking 🍳  
+- Won a dancing contest in Vancouver (on my birthday 🎉)
