@@ -19,7 +19,6 @@ I own the data architecture running on AWS.
 ### 🏆 Achievements
 
 - Official delegate at [Stanford ASES Summit '26](https://ases.stanford.edu/summit/) — immersive program in Silicon Valley  
-- Admitted to Master in Computing @ National University of Singapore (Top 10 globally)  
 - Lead Builder at [AI Playgrounds](https://www.linkedin.com/company/ai-playgrounds-tech/about/) — community democratizing AI education
 
 ---
